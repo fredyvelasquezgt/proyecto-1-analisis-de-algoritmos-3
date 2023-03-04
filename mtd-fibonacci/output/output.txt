@@ -1,0 +1,51 @@
+Configuración inicial:
+Estado actual: q0
+Cinta: 1111010100000000000000000
+Cabezal en posición: 0
+
+Configuración actual:
+Estado actual: q1
+Cinta: 0111010100000000000000000
+Cabezal en posición: 1
+
+Configuración actual:
+Estado actual: q2
+Cinta: 0110010100000000000000000
+Cabezal en posición: 2
+
+Configuración actual:
+Estado actual: q1
+Cinta: 0100010100000000000000000
+Cabezal en posición: 3
+
+Configuración actual:
+Estado actual: q2
+Cinta: 0100010000000000000000000
+Cabezal en posición: 4
+
+Configuración actual:
+Estado actual: q3
+Cinta: 0100010000000000000000000
+Cabezal en posición: 3
+
+Configuración actual:
+Estado actual: q4
+Cinta: 0100000000000000000000000
+Cabezal en posición: 2
+
+Configuración actual:
+Estado actual: q5
+Cinta: 0100000000000000000000000
+Cabezal en posición: 1
+
+Configuración actual:
+Estado actual: q6
+Cinta: 0100000000000000000000000
+Cabezal en posición: 0
+
+Configuración actual:
+Estado actual: q7
+Cinta: 0100000000000000000000000
+Cabezal en posición: -1
+
+Resultado: 5
